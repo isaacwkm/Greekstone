@@ -1,6 +1,6 @@
-# 3CG
+# 3CG - Final
 
-Project 3 by: 
+Final by: 
 Isaac Kim
 
 For CMPM 121
@@ -35,9 +35,8 @@ The game looks like it's mostly in main. Some cleaning up could be done to use p
 - Keeping visuals simple (text-based, no drag animations yet) made testing and logic debugging easier.
 
 ### What Could Be Improved
-- Could benefit from an event dispatch system for card effects (like onReveal, endOfTurn).
-- Using a scene system might help organize game over, title, and gameplay screens later.
-
+- UI polish
+- Card art
 
 ## Assets Used
 
